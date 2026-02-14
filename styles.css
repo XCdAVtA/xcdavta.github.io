@@ -54,7 +54,7 @@ h2 {
     }
 
     #menu {
-        justify-content: center;
+        flex-direction: column;
         gap: 15px
     }
 
